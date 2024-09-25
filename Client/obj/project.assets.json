@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sai Hemanth Reddy\\.nuget\\packages\\": {}
+    "C:\\Users\\NEERAJ KRISHNA N\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sai Hemanth Reddy\\source\\repos\\FileCloner\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\dev\\FileCloner\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\Sai Hemanth Reddy\\source\\repos\\FileCloner\\Client\\Client.csproj",
-      "packagesPath": "C:\\Users\\Sai Hemanth Reddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sai Hemanth Reddy\\source\\repos\\FileCloner\\Client\\obj\\",
+      "projectPath": "C:\\dev\\FileCloner\\Client\\Client.csproj",
+      "packagesPath": "C:\\Users\\NEERAJ KRISHNA N\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\FileCloner\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sai Hemanth Reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NEERAJ KRISHNA N\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
